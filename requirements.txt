@@ -1,0 +1,4 @@
+yt-dlp[default]
+pyannote.audio>=4,<5
+torch
+soundfile
