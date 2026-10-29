@@ -47,6 +47,8 @@ The URL is required. Keep the quotes:
 python youtube_to_iramuteq.py "https://www.youtube.com/watch?v=45jNv0XptsU"
 ```
 
+You should get your authentification token from huggingface using this link : https://huggingface.co/settings/tokens 
+
 The default subtitle code is `fr-orig`. To see the video's available codes:
 
 ```bash
